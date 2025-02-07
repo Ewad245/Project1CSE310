@@ -10,7 +10,6 @@ This project introduces the following concepts:
 
 - **Microservices Architecture**: Building independent services that are loosely coupled and can be deployed and scaled individually.
 - **Spring Boot**: Using Spring Boot to create stand-alone, production-ready microservices.
-- **Spring Cloud**: Utilizing Spring Cloud for service discovery, configuration, and inter-service communication.
 - **Thymeleaf**: Rendering dynamic views in the front-end.
 - **MySQL**: Using MySQL as a database for persistent storage.
 - **API Gateway**: A central gateway to route requests to different microservices (optional, if implemented in the future).
